@@ -1,2 +1,2 @@
 ## react class yapısı ve propslar
-![](screen.gif)
+![](./src/screen.gif)
